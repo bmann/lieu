@@ -1,1 +1,32 @@
-
+https://www.rupertparry.com/
+https://cs.brown.edu/~sk/
+https://labs.oracle.com/pls/apex/f?p=labs:bio:0:21
+https://nas.sr/
+https://emma.coop/
+https://www.type-driven.org.uk/edwinb/
+https://www.st-andrews.ac.uk/computer-science/people/ecb10/
+https://maggieappleton.com/
+https://chia.design/
+https://www.geoffreylitt.com/
+# https://www.geoffreylitt.com/inspirations.html does this need separate crawling?
+https://jennschiffer.com/
+https://swardley.medium.com/
+https://blog.gardeviance.org/
+https://halobrewery.com
+# other Callum Hay links?
+https://noti.st/expede
+https://github.com/expede
+# should we include github profiles?
+http://joncorbett.ca/
+https://agregore.mauve.moe/
+# other Mauve links?
+https://quinnwilton.com/
+https://michaelrbernste.in/
+https://experts.mcmaster.ca/display/ogbornd
+https://www.verses.xyz
+https://www.readtrellis.com
+# Organizers
+https://fission.codes
+https://talk.fission.codes
+https://bmannconsulting.com
+https://bmann.ca

@@ -1,6 +1,7 @@
 # Lieu
 data/
 searchengine.db
+*.tar.gz
 
 #~top ignores~
 node_modules/

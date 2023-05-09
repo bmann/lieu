@@ -1,9 +1,9 @@
 [general]
-name = "Sweet Webring"
-tagline = "the search for the new—endless"
+name = "Causal Islands Archipelago"
+tagline = "The Future of Computing & friends"
 placeholder = "Search"
 # used by the precrawl command and linked to in /about route
-url = "https://example.com/"
+url = "https://causalislands.com/"
 port = 10001
 
 [data]
