@@ -2,6 +2,7 @@
 data/
 searchengine.db
 *.tar.gz
+lieu-darwin/*
 
 #~top ignores~
 node_modules/
